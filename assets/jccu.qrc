@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/assets/icons">
+        <file alias="jccu">icons/JCCU.ico</file>
+        <file alias="add">icons/Add.png</file>
+        <file alias="calendar">icons/Calendar.png</file>
+    </qresource>
+</RCC>
